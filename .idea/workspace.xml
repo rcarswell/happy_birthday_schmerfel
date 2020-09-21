@@ -13,14 +13,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="818de456-b13f-46be-98d2-69e57b8b6a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rsc/schmerfel/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rsc/schmerfel/DecryptedOptionChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rsc/schmerfel/Encrypter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rsc/schmerfel/AppTest.java" afterDir="false" />
+    <list default="true" id="818de456-b13f-46be-98d2-69e57b8b6a23" name="Default Changelist" comment="HAPPY BIRTHDAY">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
